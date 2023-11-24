@@ -97,17 +97,6 @@ content:
           - 절차 지향 코드를 도메인 기반의 이해하기 쉬운 <mark>객체지향 코드로 개선</mark>. 이해하기 위한 코드는 약 10,000 줄에서 15 줄로 감소.
           - AWS Lambda, EventBridge 를 통해 <mark>하루 약 1,500 건의 문자 발송 자동화 및 유지보수</mark>. Serverless framework 마이그레이션.
           - 운영 업무 자동화/효율화를 위한 <mark>백오피스 기능 설계/개발/유지보수</mark>, 크루의 관리 시간 약 70% 감소
-      # - layout: left
-      #   title: 조인트리(JOINTREE)
-      #   sub_title: 행정안전부 네트워크 엔지니어
-      #   caption: 2019.02 ~ 2019.10
-      #   quote: >
-      #     내/외부망 합 3000대 규모 네트워크 관리 및 보안 업무 지원
-      #   description: |
-      #     - <mark>Network 관리</mark>
-      #         L2/L3 Switch, Router, Backbone, IPT, 패킷분석, 통신회선 구축, 논리적/물리적 망분리, 원활한 통신 위한 효율성 고려 네트워크 구축
-      #     - <mark>보안업무 지원</mark>
-      #         통합관리시스템(EMS), 네트워크 차단/탐지 시스템(IPS/IDS), 네트워크 접근 통제 시스템(NAC), 방화벽(F/W), 사내 보안 정책
   - title: Skill
     layout: list
     content:
