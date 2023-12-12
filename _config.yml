@@ -54,11 +54,11 @@ instagram_username: phoca17carat
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpeg
 about_content: |
-  SpringBoot / NodeJS / Typescript / GraphQL / ReactJS / AWS 를 주로 사용해 온 개발자입니다. <mark>테스트</mark> 및 <mark>체크리스트</mark> 가 우선인 개발을 중요시하며, <mark>체크리스트 주도 개발(CDD)</mark> 이라는 개발 방법론을 만들어 팀 내에 공유했습니다.<br>
-  도메인 프로젝트를 구현하고, 코드에 숨겨진 도메인을 드러내기 위한 설계 및 개선, 시스템 유지보수 등을 했습니다. 개인의 성장과 욕심보다는, 유저에게 전달되는 <mark>가치</mark> 가 가장 중요하다고 생각합니다. 항상 목적과 가치에 흥분합니다.<br>
-  <br>
-  <mark>현재는 많은 이들에게 가치를 전달하기 위해 스타트업을 운영하고 있습니다!</mark>
-
+  "불멸에 이르는 길은 가치있는 삶을 사는 것이다" <br>
+  제품이 아닌 가치를 판매하는 B2B Sales Manager입니다. <br> 어떻게 하면 고객의 니즈를 발견하여 가치를 제안할 수 있을지 매번 고민하며, 성취감에서 오는 희열 때문에 <mark>월요병</mark>이 없습니다.
+  당연한 것에 WHY?를 던지고 빠른 실험과 회고로 시장을 테스트하며 데이터를 쌓는 것이 비즈니스에서 가장 중요하다고 생각합니다. 그리고 이를 위해 고객과 유관부서와 수 없이 소통합니다. 
+  <br>제로투원을 경험하기 위해 스타트업을 공동 창업하여 Chief Product Officer로 일한 경험이 있습니다. 한계를 뛰어 넘으며 성장하는 <mark>스타트업 문화</mark>를 사랑합니다.
+  
 content:
   - title: Career
     layout: list
@@ -72,7 +72,7 @@ content:
         description: |
           - 프로덕트 개발 방향 및 운영 책임
           - 10대 SNS,<mark>무물</mark>. 런칭. <mark>유저 850명</mark>, <mark>앱스토어 소셜 네트워킹 부문 174위</mark> [진행 프로젝트](https://zechariahjung.notion.site/10-SNS-1e0ee7b4e7114fa8bd7ba3d61dbf18ff?pvs=4)
-          - 중고거래 커머스, <mark>17캐럿</mark> 런칭. <mark>서비스 광고 CTR 12%</mark>, <mark>유저 140명 획득</mark> [진행 프로젝트](https://zechariahjung.notion.site/17-5d7cb482990b49a98e3f07256e96711b?pvs=4)
+          - 중고거래 커머스, <mark>17캐럿</mark> 런칭. <mark>서비스 광고 CTR 12%</mark>, <mark>유저 140명 획득</mark> [진행 프로젝트](https://zechariahjung.notion.site/17-16b69e7cf1574bffb6f9e15b3bbcb539?pvs=4)
           - 협업 팝업 스토어, <mark>Ca-Pop</mark> 기획.
       - layout: left
         title: (주)녹수
@@ -82,7 +82,7 @@ content:
         quote: >
           바닥재 국내 1위 유니콘 기업 (매출 4,400억, 영업이익 490억), 해외사업본부
         description: |
-          - <mark>B2B Sales & Operation</mark> [상세히](https://www.notion.so/currenjin/CJ-ENM-CHAEDITOR-12564b2d2e294011969b10af041b7aaf)
+          - <mark>B2B Sales & Operation</mark> [상세히](https://zechariahjung.notion.site/NOX-3d1afb1338194dcabd63064e7e4e89b6?pvs=4)
           - 고객사와 매출 및 프로젝트 월간 논의. <mark>매출 포케스트 분석</mark>
           - 기존 고객 제품 포트폴리오 확장. <mark>구매력/포트폴리오 상관관계 분석 및 파이프라인 관리</mark>
           - 신규 프로젝트 대응. <mark>일 평균 2~3건 가격/스펙 협의</mark>
@@ -95,7 +95,7 @@ content:
         quote: >
           코스피 상장 조명 기업, 해외사업본부
         description: |
-          - <mark>B2B Sales & Operation</mark> [상세히](https://currenjin.notion.site/TREVARI-984446f51fb34d9b9bb349c86ad7d1af)
+          - <mark>B2B Sales & Operation</mark> [상세히](https://zechariahjung.notion.site/KH-Feelux-c19fe6b81f834824a4dd895fc97df42c?pvs=4)
           - 해외 프로젝트 공급 관리. <mark>Zara, Coach, Uniqlo, H&M, Sephora 등</mark>
           - <mark>1~2억 규모</mark>해외 전시회 기획/운영 총괄. 개발팀/디자인팀/생산팀/영업팀/에이전트 <mark>커뮤니케이션 주도</mark>.
           - 홍보 마케팅. <mark>영국 저명 잡지 광고 시안 제작</mark>
@@ -139,7 +139,7 @@ content:
       - layout: left
         border: weak
         title: 17캐럿
-        link: https://www.notion.so/zechariahjung/17-5d7cb482990b49a98e3f07256e96711b?pvs=4#980da3fa185c41f796a121964754b612
+        link: https://www.notion.so/zechariahjung/17-16b69e7cf1574bffb6f9e15b3bbcb539?pvs=4#b09f71bff8ed4205bbec7daa92d54e41
         link_text: 자세히
         quote: >
           아이돌 포토카드 중고거래 플랫폼입니다. 기존 중고 거래의 불편함과 리스크를 해소하는 솔루션을 기획하고 운영하였습니다.<br>
@@ -212,12 +212,25 @@ content:
           - 제품 제안서 제작
   - title: Experience
     layout: list
-    content:
+    content:    
+      - layout: left
+        #border: weak
+        title: University Student Leaders Conference
+        caption: 2016.06 ~ 2016.07
+        link: https://www.notion.so/zechariahjung/ee190faf28e24328a9fe27aa37a12a22?pvs=4#f5b9fdd29a7e469aac4658ae7d8bb3ca
+        link_text: 자세히
+        quote: >
+           코리아해럴드, 부산광역시 공동주관 대학생 국제개발프로그램
+        description: |
+          - 대상 수상 (13개 참가팀)
+          - 인도 내 적정기술 적용방안 발표 
+          - 인도(India) 주정부 청소년부 장관 미팅
+          - [관련 기사](https://www.dailytw.kr/news/articleView.html?idxno=14352)
       - layout: left
         #border: weak
         title: 한국외대 국제지역대학원 학생회
         caption: 2015.08 ~ 2016.12
-        link: https://www.notion.so/currenjin/TREVARI-984446f51fb34d9b9bb349c86ad7d1af#673fcc6903844966be140f503f973be3
+        link: https://www.notion.so/zechariahjung/ee190faf28e24328a9fe27aa37a12a22?pvs=4#c77929ea058a444e9412393793d6ea6b
         link_text: 자세히
         description: |
           - 학생회 부회장 역임
@@ -226,23 +239,19 @@ content:
           - 대학원생 복지 운영
       - layout: left
         #border: weak
-        title: 대학생 리더스 컨퍼런스
-        caption: 2016.06 ~ 2016.07
-        link: https://www.notion.so/currenjin/TREVARI-984446f51fb34d9b9bb349c86ad7d1af#75cf6b602f2749069fc163f7e5f3eb0c
+        title: 굿뉴스코 해외봉사단
+        caption: 2008.02 ~ 2008.12
+        link: https://www.notion.so/zechariahjung/ee190faf28e24328a9fe27aa37a12a22?pvs=4#2f0a8dca2be844c4855ba21c88b2fc04
         link_text: 자세히
-        quote: >
-           코리아해럴드 주관 국제개발프로그램 기획
         description: |
-          - 대상 수상 (13개 참가팀)
-          - 인도 내 적정기술 적용방안 발표 
-          - 인도(India) 주정부 청소년부 장관 미팅
-          - [관련 기사](https://www.dailytw.kr/news/articleView.html?idxno=14352)
+          - 카자흐스탄 10개월 해외 봉사활동
+          - 민간외교, 문화교류, 사회봉사
       - layout: left
         #border: weak
         title: 농촌진흥청 해외 인턴십
         caption: 2014.03~ 2014.08
         quote: >
-          해외농업기술개발사업(KOPIA), 우즈베키스탄 파견
+          우즈베키스탄에 파견되어 우즈베키스탄 농수산 자원부 연구소와 해외농업기술개발사업(KOPIA)를 진행하였습니다.
         description: |
           - 딸기 재배 기술 개발/보급 협력 사업 진행
           - 러시아어 통역
@@ -264,11 +273,17 @@ content:
         #quote: >
         #  AWS 클라우드 교육
         description: |
-          - Master Degree
-          - Major: 
-          - G/A: 4.2/4.5
-          - Thesis: The Analysis of Driving Forces for Sino-Russian Economic Cooperation in the Far East: focusing of Putin`s era
-          
+          - 석사 학위
+          - 학점: 4.2/4.5
+          - 졸업논문: The Analysis of Driving Forces for Sino-Russian Economic Cooperation in the Far East: focusing of Putin`s era
+      - layout: left
+        title: 안양대학교
+        caption: 2007.03~ 2014.02
+        #quote: >
+        #  AWS 클라우드 교육
+        description: |
+          - 전공: 러시아어
+          - 학점: 4.17/4.5          
   - title: 교육
     layout: list
     content:
@@ -288,7 +303,7 @@ content:
         description: |
           - 파이썬 활용 데이터 기초 분석
       - layout: left
-        title: 해외건설비즈니스 영어 프로젝트 매니저먼트
+        title: 해외 비즈니스 영어 건설 프로젝트 매니저먼트
         caption: 2017.03 ~ 2017.05
         quote: >
           건설산업교육원, 10주(350시간) 오프라인 교육 과정
@@ -299,13 +314,13 @@ content:
   - title: A Few Keywords About Me
     layout: text
     content: |
-      **성장**
+      **도전**
       - "철이 철을 날카롭게 한다." 난제를 맞닥뜨려야 비로서 한계를 넘을 수 있기 때문에 안주하는 것을 항상 거부합니다.
       - 그래서 항상 눈이 반짝거리고, 열정적입니다.
 
-      **창의성**
-      - 창의성은 연관 없는 것들이 결합할 때 생긴다고 생각합니다. 그래서 배우고, 수집하고, 읽는 것을 좋아합니다.
-      - 올해 90권을 완독했습니다. 독서를 통해 문해력을 높이고 사고의 확장을 일으킵니다. [2023년 독서리스트](https://zechariahjung.notion.site/zechariahjung/2023-7de9ac7bcf484fe0ac9281494cd16d29)
+      **배움**
+      - 창의성은 연관 없는 것들을 결합할 때 생긴다고 생각합니다. 그래서 질문하고, 배우고, 수집합니다.
+      - 무엇이든 읽는 것을 좋아해 올해 90권을 완독했습니다. [2023년 독서리스트](https://zechariahjung.notion.site/zechariahjung/2023-7de9ac7bcf484fe0ac9281494cd16d29)
 
       **집요함**
       - 업무에 있어서 설득하든지 설득당하든지 명확하게 정하는 것을 선호합니다. 그래서 치열하게 논의하고 그 과정에서 성장합니다.
