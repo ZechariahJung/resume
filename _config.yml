@@ -21,8 +21,8 @@ phone: 01064589955
 darkmode: false
 
 # Social links
-github_username:  currenjin
-instagram_username: phoca17carat
+#github_username:  currenjin
+#instagram_username: phoca17carat
 #twitter_username: jekyllrb
 #stackoverflow_username: "00000001"
 #dribbble_username: jekyll
@@ -52,15 +52,16 @@ instagram_username: phoca17carat
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpeg
+about_profile_image: images/myprofile.jpeg
 about_content: |
-  "불멸에 이르는 길은 가치있는 삶을 사는 것이다" <br>
-  제품이 아닌 가치를 판매하는 B2B Sales Manager입니다. <br> 어떻게 하면 고객의 니즈를 발견하여 가치를 제안할 수 있을지 매번 고민하며, 성취감에서 오는 희열 때문에 <mark>월요병</mark>이 없습니다.
-  당연한 것에 WHY?를 던지고 빠른 실험과 회고로 시장을 테스트하며 데이터를 쌓는 것이 비즈니스에서 가장 중요하다고 생각합니다. 그리고 이를 위해 고객과 유관부서와 수 없이 소통합니다. 
-  <br>제로투원을 경험하기 위해 스타트업을 공동 창업하여 Chief Product Officer로 일한 경험이 있습니다. 한계를 뛰어 넘으며 성장하는 <mark>스타트업 문화</mark>를 사랑합니다.
+  "불멸에 이르는 첫 걸음은 기억될만한 삶을 사는 것이다" <br><br>
+
+  제품이 아닌 <mark>가치</mark>를 판매하는 B2B Sales Manager입니다. 어떻게 하면 고객의 니즈를 발견하여 가치를 제안할 수 있을지 매번 고민하며, 성취감에서 오는 희열 때문에 <mark>월요병</mark>이 없습니다.
+  <br>당연한 것에 WHY?를 던지고 <mark>빠른 실험</mark>과 <mark>회고</mark>로 시장을 테스트하며 데이터를 쌓는 것이 비즈니스에서 가장 중요하다고 생각합니다. 그래서 고객과 유관부서와의 소통을 중요시합니다.
+  <br>제로투원을 경험하기 위해 공동창업하여 Chief Product Officer로 일했습니다. 한계를 뛰어 넘으며 성장하는 <mark>스타트업 문화</mark>를 사랑합니다.
   
 content:
-  - title: Career
+  - title: 경력
     layout: list
     content:
       - layout: left
@@ -71,14 +72,14 @@ content:
           준비-발사-조준으로 빠르게 검증하며 임팩트를 내는 실험 조직, 2023 예비창업패키지 최종 선정
         description: |
           - 프로덕트 개발 방향 및 운영 책임
-          - 10대 SNS,<mark>무물</mark>. 런칭. <mark>유저 850명</mark>, <mark>앱스토어 소셜 네트워킹 부문 174위</mark> [진행 프로젝트](https://zechariahjung.notion.site/10-SNS-1e0ee7b4e7114fa8bd7ba3d61dbf18ff?pvs=4)
-          - 중고거래 커머스, <mark>17캐럿</mark> 런칭. <mark>서비스 광고 CTR 12%</mark>, <mark>유저 140명 획득</mark> [진행 프로젝트](https://zechariahjung.notion.site/17-16b69e7cf1574bffb6f9e15b3bbcb539?pvs=4)
-          - 협업 팝업 스토어, <mark>Ca-Pop</mark> 기획.
+          - 10대 SNS,<mark>무물</mark>, 런칭. <mark>유저 850명</mark>, <mark>앱스토어 소셜 네트워킹 부문 174위</mark> [상세히](https://zechariahjung.notion.site/10-SNS-1e0ee7b4e7114fa8bd7ba3d61dbf18ff?pvs=4)
+          - 중고거래 커머스,<mark>17캐럿</mark>, 런칭. <mark>서비스 광고 CTR 12%</mark>, <mark>유저 140명 획득</mark> [상세히](https://zechariahjung.notion.site/17-16b69e7cf1574bffb6f9e15b3bbcb539?pvs=4)
+          - 협업 팝업 스토어,<mark>Ca-Pop</mark>, 기획
       - layout: left
         title: (주)녹수
         sub_title: B2B Overseas Sales Manager
         caption: 2020.07 ~ 2022.09
-        link: https://www.noxglobal.com/
+        #link: https://www.noxglobal.com/
         quote: >
           바닥재 국내 1위 유니콘 기업 (매출 4,400억, 영업이익 490억), 해외사업본부
         description: |
@@ -91,16 +92,15 @@ content:
         title: (주)필룩스
         sub_title: B2B Overseas Sales Manager
         caption: 2018.02 ~ 2020.06
-        link: http://www.feelux.com/korea/
+        #link: http://www.feelux.com/korea/
         quote: >
-          코스피 상장 조명 기업, 해외사업본부
+          코스피 상장 조명 기업, 조명해외사업본부
         description: |
           - <mark>B2B Sales & Operation</mark> [상세히](https://zechariahjung.notion.site/KH-Feelux-c19fe6b81f834824a4dd895fc97df42c?pvs=4)
           - 해외 프로젝트 공급 관리. <mark>Zara, Coach, Uniqlo, H&M, Sephora 등</mark>
           - <mark>1~2억 규모</mark>해외 전시회 기획/운영 총괄. 개발팀/디자인팀/생산팀/영업팀/에이전트 <mark>커뮤니케이션 주도</mark>.
           - 홍보 마케팅. <mark>영국 저명 잡지 광고 시안 제작</mark>
-
-  - title: Skill
+  - title: 스킬
     layout: list
     content:
       - layout: left
@@ -126,12 +126,12 @@ content:
         border: weak
         title: 무물
         link: https://www.notion.so/zechariahjung/10-SNS-1e0ee7b4e7114fa8bd7ba3d61dbf18ff?pvs=4#9ff05ea46e6640aab038717d04b2d640
-        link_text: 자세히
+        link_text: 상세보기
         quote: >
-          10대 익명 칭찬 투표 서비스, 무물을 운영하고 고도화하는 제품 책임을 맡았습니다.<br>
+          10대 익명 칭찬 투표 서비스, 무물 앱을 운영하고 고도화하는 제품 책임을 맡았습니다.<br>
         description: |
           - Growth Hacking 팀 리드
-          - Iteration 리드 및 고객 행동 데이터 분석
+          - 고객 행동 데이터 분석
           - 개발자, 디자이너 업무 조율
           - 팀 KPT회고 주도
           - 앱 UX 최적화
@@ -140,25 +140,24 @@ content:
         border: weak
         title: 17캐럿
         link: https://www.notion.so/zechariahjung/17-16b69e7cf1574bffb6f9e15b3bbcb539?pvs=4#b09f71bff8ed4205bbec7daa92d54e41
-        link_text: 자세히
+        link_text: 상세보기
         quote: >
-          아이돌 포토카드 중고거래 플랫폼입니다. 기존 중고 거래의 불편함과 리스크를 해소하는 솔루션을 기획하고 운영하였습니다.<br>
+          아이돌 포토카드 중고거래 플랫폼입니다. 기존 중고거래의 불편함과 리스크를 해소하는 솔루션을 기획하고 운영하였습니다.<br>
         description: |
-          - 서비스 컨셉 기획
+          - 서비스 기획
           - 랜딩페이지 제작
-          - 온미디어(인스타그램, 페이스북) 광고 집행
+          - 온미디어 광고 집행
           - 온/오프라인 영업
-          - 거래 프로세스 정립
           - 초기 충성 유저 커뮤니티 운영
       - layout: left
         border: weak
-        title: 유럽 거래처 관리
+        title: 유럽 거래처 B2B 영업
         link: https://www.notion.so/zechariahjung/NOX-3d1afb1338194dcabd63064e7e4e89b6?pvs=4#5bc6956c7e31471db2dfb98ef8b4a379
-        link_text: 자세히
+        link_text: 상세보기
         quote: >
-          트레바리 주문 아키텍처를 개선했습니다. 절차 지향 코드를 도메인 기반의 이해하기 쉬운 객체 지향 코드로 개선했습니다. 이에 따른 리팩토링이 주된 작업입니다. 개발자가 이해하기 위한 코드는 10,000 줄에서 15 줄로 감소했습니다.
+          유럽 거래처 6개를 담당하여 가격 및 스펙을 협의하고, 판매 데이터를 분석하여 매출을 빠르게 성장시켰습니다.
         description: |
-          - 포트폴리오 확장 (매출 % 증대)
+          - 매출 전략 수립 (매출 442억, 43% 성장)
           - 가격 협상
           - 고객 수요 예측 및 재고 관리
           - 신규 고객 발굴
@@ -166,34 +165,34 @@ content:
         border: weak
         title: 신흥시장 PB 신규 영업
         link: https://www.notion.so/zechariahjung/NOX-3d1afb1338194dcabd63064e7e4e89b6?pvs=4#54f9467eb0aa496fa1943e2eb03f19ec
-        link_text: 자세히
+        link_text: 상세보기
         quote: >
-          트레바리 시스템 내 개념으로만 존재하던 놀러가기 서비스를 개선했습니다. 크루는 유저가 신청한 놀러가기 서비스를 수기로 처리했었고, 유저는 자신이 놀러가기를 할 수 있는지 확실하게 알 수 없었습니다. 놀러가기라는 도메인을 드러내 두 불편함을 해소했습니다.
+          해외 신시장을 개척하는 팀으로 주로 신제품 영업과 신규 프로젝트 수주를 진행하였습니다.
         description: |
           - 신규 프로젝트 진행
-          - 신규 사업 진행
+          - 포트폴리오 확장
           - 해외 마케팅
           - 클레임 대응
       - layout: left
         border: weak
         title: 해외 사업개발
         link: https://www.notion.so/zechariahjung/KH-Feelux-c19fe6b81f834824a4dd895fc97df42c?pvs=4#817d8b10655547bfb651d20f7a4415cf
-        link_text: 자세히
+        link_text: 상세보기
         quote: >
-          트레바리 클럽의 각 파트너는 클럽에 필요한 정보를 삽입해야 합니다. 크루는 파트너와 직접 커뮤니케이션하며 수기로 확인했던 방식을 자동화했습니다. 클럽 소개글 완성 시간이 평균 36분에서 10분으로 약 72% 대폭 감소, 클럽 소개글 완성도가 평균 78% 에서 99% 으로 21% 증가했습니다.
+          유럽/아시아/중동/오세아니아 고객을 담당하여 매출 확대 전략을 수립하고 해외 프로젝트를 수주하는 B2B 영업을 하였습니다.
         description: |
-          - 해외 프로젝트 스펙인
+          - 해외 프로젝트 스펙 인(spec in)
           - 신사업 추진
           - 신규 고객 발굴
           - 오더 수주, 납기 및 수출 관리
           - 클레임 대응
       - layout: left
         border: weak
-        title: 해외 조명 전시회
+        title: 해외 조명 전시회 PM
         link: https://www.notion.so/zechariahjung/KH-Feelux-c19fe6b81f834824a4dd895fc97df42c?pvs=4#be157916d85e41139b7dc5d0016ae0f9
-        link_text: 자세히
+        link_text: 상세보기
         quote: >
-          전시회 부스 기획하고 운영 총괄을 하였습니다.
+          1억 이상 규모의 해외 조명 전시회 Project Manager를 다수 맡아 부스를 기획하고 운영 총괄을 하였습니다.
         description: |
           - 전시회TF팀 커뮤니케이션 주도
           - 부스 디자인 시안 작업
@@ -203,67 +202,13 @@ content:
         #border: weak
         title: 해외 마케팅
         link: https://www.notion.so/zechariahjung/KH-Feelux-c19fe6b81f834824a4dd895fc97df42c?pvs=4#7805fff5da1c4d33988f80ab969177d7
-        link_text: 자세히
+        link_text: 상세보기
         quote: >
-          트레바리 클럽 선택이 어려운 유저를 위해 질의응답을 통한 클럽 추천을 받습니다. 질의응답한 유저 중 85%가 클럽 미경험자입니다.
+          프로젝트 스펙을 주로 결정하는 specifier들을 위한 홍보 방법으로 광고를 제작하고 제품을 제안하였습니다.
         description: |
           - 영국 조명 잡지 광고
           - 현지화 프로모션
           - 제품 제안서 제작
-  - title: Experience
-    layout: list
-    content:    
-      - layout: left
-        #border: weak
-        title: University Student Leaders Conference
-        caption: 2016.06 ~ 2016.07
-        link: https://www.notion.so/zechariahjung/ee190faf28e24328a9fe27aa37a12a22?pvs=4#f5b9fdd29a7e469aac4658ae7d8bb3ca
-        link_text: 자세히
-        quote: >
-           코리아해럴드, 부산광역시 공동주관 대학생 국제개발프로그램
-        description: |
-          - 대상 수상 (13개 참가팀)
-          - 인도 내 적정기술 적용방안 발표 
-          - 인도(India) 주정부 청소년부 장관 미팅
-          - [관련 기사](https://www.dailytw.kr/news/articleView.html?idxno=14352)
-      - layout: left
-        #border: weak
-        title: 한국외대 국제지역대학원 학생회
-        caption: 2015.08 ~ 2016.12
-        link: https://www.notion.so/zechariahjung/ee190faf28e24328a9fe27aa37a12a22?pvs=4#c77929ea058a444e9412393793d6ea6b
-        link_text: 자세히
-        description: |
-          - 학생회 부회장 역임
-          - 동문회 기획 (참석율 3배 상승)
-          - 교육프로그램 운영
-          - 대학원생 복지 운영
-      - layout: left
-        #border: weak
-        title: 굿뉴스코 해외봉사단
-        caption: 2008.02 ~ 2008.12
-        link: https://www.notion.so/zechariahjung/ee190faf28e24328a9fe27aa37a12a22?pvs=4#2f0a8dca2be844c4855ba21c88b2fc04
-        link_text: 자세히
-        description: |
-          - 카자흐스탄 10개월 해외 봉사활동
-          - 민간외교, 문화교류, 사회봉사
-      - layout: left
-        #border: weak
-        title: 농촌진흥청 해외 인턴십
-        caption: 2014.03~ 2014.08
-        quote: >
-          우즈베키스탄에 파견되어 우즈베키스탄 농수산 자원부 연구소와 해외농업기술개발사업(KOPIA)를 진행하였습니다.
-        description: |
-          - 딸기 재배 기술 개발/보급 협력 사업 진행
-          - 러시아어 통역
-          - 농업 시장 조사
-      - layout: left
-        title: 한국외대 러시아연구소 연구원
-        caption: 2015.12~ 2016.08
-        description: |
-          - 러시아어 토론대회 총진행 (주한러시아대사관 공동주관)
-          - 러시아 자료 조사
-          - 월간 발행물 교정/편집
-
   - title: 학력
     layout: list
     content:
@@ -273,7 +218,8 @@ content:
         #quote: >
         #  AWS 클라우드 교육
         description: |
-          - 석사 학위
+          - 석사 졸업
+          - 전공: 경제학
           - 학점: 4.2/4.5
           - 졸업논문: The Analysis of Driving Forces for Sino-Russian Economic Cooperation in the Far East: focusing of Putin`s era
       - layout: left
@@ -291,7 +237,7 @@ content:
         title: IT 스타트업 스테이션
         caption: 2022.09 ~ 2022.12
         quote: >
-          멋쟁이 사자처럼, 12주(420시간) 오프라인 창업 교육 과정
+          멋쟁이사자처럼, 12주(420시간) 오프라인 창업 교육 과정
         description: |
           - 기초개발교육, 아이디어/팀빌딩, MVP제작, 유저테스트, 미래에셋 VC 멘토링, 데모데이
           - 본 과정 <mark>팀장</mark> 역임, 부동산 역매칭 서비스 런칭
@@ -310,25 +256,83 @@ content:
         description: |
           - Business English, Documentation Writing and Presentation, Project Management, Project Risk and Site Survey
           - 본 과정 <mark>우수상</mark>
+  - title: 대외활동/인턴
+    layout: list
+    content:    
+      - layout: left
+        #border: weak
+        title: University Student Leaders Conference
+        caption: 2016.06 ~ 2016.07
+        link: https://www.notion.so/zechariahjung/ee190faf28e24328a9fe27aa37a12a22?pvs=4#f5b9fdd29a7e469aac4658ae7d8bb3ca
+        link_text: 상세보기
+        quote: >
+           코리아해럴드, 부산광역시 공동주관 대학생 국제개발프로그램 기획   
+        description: |
+          - 1등 수상 (13개 참가팀)
+          - 인도 내 적정기술 적용방안 발표 
+          - 인도(India) 주정부 청소년부 장관 미팅
+          - [관련 기사](https://www.dailytw.kr/news/articleView.html?idxno=14352)
+      - layout: left
+        #border: weak
+        title: 한국외대 국제지역대학원 학생회
+        caption: 2015.08 ~ 2016.12
+        link: https://www.notion.so/zechariahjung/ee190faf28e24328a9fe27aa37a12a22?pvs=4#c77929ea058a444e9412393793d6ea6b
+        link_text: 상세보기
+        description: |
+          - 학생회 부회장 역임
+          - 동문회 기획 (참석율 3배 상승)
+          - 교육프로그램 운영
+          - 대학원생 복지 운영
+      - layout: left
+        #border: weak
+        title: 굿뉴스코 해외봉사단
+        caption: 2008.02 ~ 2008.12
+        link: https://www.notion.so/zechariahjung/ee190faf28e24328a9fe27aa37a12a22?pvs=4#2f0a8dca2be844c4855ba21c88b2fc04
+        link_text: 상세보기
+        description: |
+          - 카자흐스탄 10개월 해외 봉사활동
+          - 민간외교, 문화교류, 사회봉사
+      - layout: left
+        title: 한국외대 러시아연구소  연구원
+        caption: 2015.12~ 2016.08
+        description: |
+          - 러시아어 토론대회 총진행 (주한러시아대사관 공동주관)
+          - 러시아 자료 조사
+          - 월간 발행물 교정/편집
+      - layout: left
+        #border: weak
+        title: 농촌진흥청 해외 인턴십
+        caption: 2014.03~ 2014.08
+        quote: >
+          우즈베키스탄에 파견되어 우즈베키스탄 농수산자원부 산하연구소와 해외농업기술개발사업(KOPIA)를 진행하였습니다.
+        description: |
+          - 딸기 재배 기술 개발/보급 협력 사업 진행
+          - 러시아어 통역
+          - 농업 시장 조사
 
   - title: A Few Keywords About Me
     layout: text
     content: |
       **도전**
       - "철이 철을 날카롭게 한다." 난제를 맞닥뜨려야 비로서 한계를 넘을 수 있기 때문에 안주하는 것을 항상 거부합니다.
-      - 그래서 항상 눈이 반짝거리고, 열정적입니다.
+      - 그래서 어려운 일을 도맡으며 열정이 넘칩니다.
 
       **배움**
-      - 창의성은 연관 없는 것들을 결합할 때 생긴다고 생각합니다. 그래서 질문하고, 배우고, 수집합니다.
+      - 아웃풋은 인풋량에 따라 결정되며, 창의성은 연관없어 보이는 것들을 결합할 때 생깁니다. 그래서 다양한 분야에 관심을 갖고, 질문하고, 배우고, 수집합니다.
       - 무엇이든 읽는 것을 좋아해 올해 90권을 완독했습니다. [2023년 독서리스트](https://zechariahjung.notion.site/zechariahjung/2023-7de9ac7bcf484fe0ac9281494cd16d29)
 
-      **집요함**
+      **집요**
       - 업무에 있어서 설득하든지 설득당하든지 명확하게 정하는 것을 선호합니다. 그래서 치열하게 논의하고 그 과정에서 성장합니다.
-      - 그래서 사소한 것도 쉽게 넘어가지 않습니다.
+      - 매너리즘을 경계하며 사소한 것도 쉽게 넘어가지 않습니다.
+
+      **실험**
+      - 무엇이든 실험하고 데이터를 쌓는 실험 정신이 있습니다.
+      - 개인적으로는 시간/에너지 관리법을 위해 다양한 테스트를 하고, 업무에서도 가설 테스트를 합니다.
+      - 실험이 실패할 경우도 많지만, 실패를 바탕으로 더 좋은 가설을 세우려고 합니다.
 
       **운동**
       - 몸이 힘들면 상황과 쉽게 타협하기 때문에 풋살, 수영, 웨이트 등 체력관리를 열심히 합니다.
-      - 그래서 에너지가 넘칩니다.
+      - 그리고 자기 통제력이 높습니다.
 
 # Footer
 footer_show_references: true
