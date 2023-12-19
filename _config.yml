@@ -270,7 +270,7 @@ content:
         quote: >
            코리아해럴드, 부산광역시 공동주관 대학생 국제개발프로그램 기획   
         description: |
-          - 1등 수상 (13개 참가팀)
+          - <mark>1등</mark> 수상 (13개 참가팀)
           - 인도 내 적정기술 적용방안 발표 
           - 인도(India) 주정부 청소년부 장관 미팅
       - layout: left
@@ -281,7 +281,7 @@ content:
         link_text: 상세보기
         description: |
           - 원우회 부회장 역임
-          - 동문회 기획 (참석율 3배 상승)
+          - 동문회 기획 (참석율 <mark>3배</mark> 상승)
           - 교육프로그램 운영
           - 대학원생 복지 운영
       - layout: left
@@ -293,6 +293,7 @@ content:
         description: |
           - 카자흐스탄 10개월 해외 봉사활동
           - 민간외교, 문화교류, 사회봉사
+          - 문화행사기획(준비예산 <mark>0원</mark>)
       - layout: left
         title: 한국외대 러시아연구소<br>연구원
         caption: 2015.12~ 2016.08
