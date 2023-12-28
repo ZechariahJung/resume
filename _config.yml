@@ -222,17 +222,17 @@ content:
         #  AWS 클라우드 교육
         description: |
           - 석사 졸업
-          - 전공: 경제학
+          - 전공: 러시아 정치/경제학
           - 학점: 4.2/4.5
           - 졸업논문: The Analysis of Driving Forces for Sino-Russian Economic Cooperation in the Far East: focusing of Putin`s era
-      - layout: left
-        title: 안양대학교
-        caption: 2007.03~ 2014.02
-        #quote: >
-        #  AWS 클라우드 교육
-        description: |
-          - 전공: 러시아어
-          - 학점: 4.17/4.5          
+      # - layout: left
+      #   title: 안양대학교
+      #   caption: 2007.03~ 2014.02
+      #   quote: >
+      #     AWS 클라우드 교육
+      #   description: |
+      #     - 전공: 러시아어
+      #     - 학점: 4.17/4.5          
   - title: 교육
     layout: list
     content:
