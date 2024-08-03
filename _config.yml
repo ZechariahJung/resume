@@ -62,6 +62,17 @@ about_content: |
   
 content:
   - title: 경력
+      layout: list
+    content:
+      - layout: left
+        title: Boostlab
+        sub_title: Sales Manager & Marketer
+        caption: 2024.01 ~ NOW
+        quote: >
+          D2C 미디어커머스 스타트업, 글로벌사업부
+        description: |
+          - TikTok Marketing (인플루언서 PPL)
+          - B2B 해외영업 (미국/일본/호주/베트남/대만)
     layout: list
     content:
       - layout: left
@@ -72,9 +83,9 @@ content:
           준비-발사-재조준으로 빠르게 검증하며 임팩트를 내는 실험 조직, 2023 예비창업패키지 최종 선정
         description: |
           - 프로덕트 개발 방향 및 운영 책임
-          - 10대 투표 SNS,<mark>무물</mark>, 런칭. <mark>유저 850명</mark>, <mark>앱스토어 소셜 네트워킹 부문 174위</mark> [상세히](https://zechariahjung.notion.site/10-SNS-1e0ee7b4e7114fa8bd7ba3d61dbf18ff?pvs=4)
-          - 중고거래 커머스,<mark>17캐럿</mark>, 런칭. <mark>온미디어 광고 CTR 12%</mark>, <mark>유저 140명 획득</mark> [상세히](https://zechariahjung.notion.site/17-16b69e7cf1574bffb6f9e15b3bbcb539?pvs=4)
-          - 협업 팝업 스토어,<mark>Ca-Pop</mark>, 기획
+          - 10대 투표 SNS(무물) 런칭. <mark>유저 850명</mark>, <mark>앱스토어 소셜 네트워킹 부문 174위</mark> [상세히](https://zechariahjung.notion.site/10-SNS-1e0ee7b4e7114fa8bd7ba3d61dbf18ff?pvs=4)
+          - 중고거래 커머스(17캐럿) 런칭. <mark>온미디어 광고 CTR 12%</mark>, <mark>유저 140명 획득</mark> [상세히](https://zechariahjung.notion.site/17-16b69e7cf1574bffb6f9e15b3bbcb539?pvs=4)
+          - 협업 팝업 스토어(Ca-Pop) 기획
       - layout: left
         title: NOX
         sub_title: B2B Overseas Sales Manager
@@ -126,6 +137,29 @@ content:
     content:
       - layout: left
         border: weak
+        title: TikTok 마케팅
+        quote: >
+          TikTok 유/무가 인플루언서 마케팅 시스템을 구축하고 데이터 기반 최적화를 맡았습니다.<br>
+        description: |
+          - TikTok 마케팅 메뉴얼 제작 (회신율 10% => 50% 증대 / 업로드 비율 00% -> 00% 증대)
+          - 유가 인플루언서 00건 진행
+          - 무가 인플루언서 00건 진행
+          - 인플루언서 선정/평가 툴 도입 
+          - 가이드라인 제작
+      - layout: left
+        border: weak
+        title: B2B 해외영업
+        quote: >
+          뷰티 브랜드(비건이펙트/에퓨놀/루아페)와 생활용품 브랜드(라비킷/에르고바디)의 해외 수출을 담당하였습니다.<br>
+        description: |
+          - 매출 성장 (1월 매출 88만원 -> 7월 매출 3,000만원)
+          - 마진율 계산 및 공급가 설정
+          - 계약서 작성
+          - 수출 인증 진행
+          - 신규 고객 발굴
+          - 발주 포케스팅 및 부동/악성 재고 관리
+      - layout: left
+        border: weak
         title: 무물
         link: https://www.notion.so/zechariahjung/10-SNS-1e0ee7b4e7114fa8bd7ba3d61dbf18ff?pvs=4#9ff05ea46e6640aab038717d04b2d640
         link_text: 상세보기
@@ -148,7 +182,7 @@ content:
         description: |
           - 서비스 기획
           - 랜딩페이지 제작
-          - 온미디어 광고 집행
+          - 온드미디어 광고 집행
           - 온/오프라인 영업
           - 초기 충성 유저 커뮤니티 운영
       - layout: left
@@ -212,7 +246,7 @@ content:
           - 영국 조명 잡지 광고
           - 현지화 프로모션
           - 제품 제안서 제작
-  - title: 학력
+  - title: 최종 학력
     layout: list
     content:
       - layout: left
@@ -222,7 +256,7 @@ content:
         #  AWS 클라우드 교육
         description: |
           - 석사 졸업
-          - 전공: 러시아 정치/경제학
+          - 전공: 경제학
           - 학점: 4.2/4.5
           - 졸업논문: The Analysis of Driving Forces for Sino-Russian Economic Cooperation in the Far East: focusing of Putin`s era
       # - layout: left
@@ -323,7 +357,7 @@ content:
       **지적 호기심**
       - 아웃풋은 인풋량에 따라 결정되며, 창의성은 연관없어 보이는 것들을 결합할 때 생깁니다. 그래서 다양한 분야에 관심을 갖고, 질문하고, 배우고, 수집합니다.
       - 무엇이든 읽는 것을 좋아해 작년에 100권을 완독했습니다. [2023년 독서리스트](https://zechariahjung.notion.site/zechariahjung/2023-7de9ac7bcf484fe0ac9281494cd16d29)
-      - 올해 120권을 목표로 하고 있습니다.
+      - 올해도 계속 읽고 있습니다.
 
       **집요**
       - 업무에 있어서 설득하든지 설득당하든지 명확하게 정하는 것을 선호합니다. 그래서 치열하게 논의하고 그 과정에서 성장합니다.
