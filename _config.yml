@@ -64,15 +64,15 @@ content:
   - title: 경력
     layout: list
     content:
-      - layout: left
-        title: Boostlab
-        sub_title: Sales Manager & Marketer
-        caption: 2024.01 ~ NOW
-        quote: >
+    - layout: left
+      title: Boostlab
+      sub_title: Sales Manager & Marketer
+      caption: 2024.01 ~ NOW
+      quote: >
           D2C 미디어커머스 스타트업, 글로벌사업부
-        description: |
-          - TikTok Marketing (인플루언서 PPL)
-          - B2B 해외영업 (미국/일본/호주/베트남/대만)
+      description: |
+        - TikTok Marketing (인플루언서 PPL)
+        - B2B 해외영업 (미국/일본/호주/베트남/대만)
     layout: list
     content:
       - layout: left
