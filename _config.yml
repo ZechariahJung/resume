@@ -62,7 +62,7 @@ about_content: |
   
 content:
   - title: 경력
-      layout: list
+    layout: list
     content:
       - layout: left
         title: Boostlab
